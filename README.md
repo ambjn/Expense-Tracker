@@ -10,6 +10,6 @@ Users will be able to see graphs of expenses
 Users can save those graphs for their own reference
 
 
-This project is developed on Java
+This project is developed on Java, HTML, XML, CSS and JavaScript.
 
 To access tbis project : https://expense-tracker-ambjn.herokuapp.com
